@@ -15,7 +15,7 @@ The Cybershoes receiver outputs a left stick x/y gamepad signal relative to the 
 
 Walking in the direction of the shoes works well, if the same factor is applied for speed y (forward) as for speed x (sidewards). Either you or we test how the speed feels.  
 
-Cybershoes users know that they should select HMD oriented movement in the game settings. They press calibrate on the receiver at the start of each session to enter the follow Cybersheos mode.  
+Cybershoes users know that they should select HMD oriented movement in the game settings. They press calibrate on the receiver at the start of each session to enter the follow Cybershoes mode.  
 
 ## Blueprint method   
 
