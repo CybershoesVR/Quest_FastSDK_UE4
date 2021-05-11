@@ -1,8 +1,8 @@
 # Cybershoes Quest SDK For UE4  
 
-## The Brute Force method  
+## The Fast method  
 
-In most cases this works. Cybershoes output a single joystick press for entering sprint mode. Only disadvantage is that you cannot specifically control the speed nor the walk/run mechanism.  
+In most cases this works. Cybershoes output a single joystick press for entering sprint mode. 
 
 How to do it:  
 Engine Input > Axis Mappings   
