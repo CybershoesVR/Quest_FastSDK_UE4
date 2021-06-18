@@ -7,9 +7,10 @@ In most cases this works. Cybershoes output a single joystick press for entering
 How to do it:  
 UNreal Engine > Engine Input > Bindings  
 * add Gamepad Left Thumbstick to your Y-Axis and X-Axis Mappings  
-* add Gamepad Left Thumbstick Press to your toggle "Sprint" Action
+* add Gamepad Left Thumbstick Button (Press) to your toggle "Sprint" Action
 
-![UE4 brute force method - input settings](https://user-images.githubusercontent.com/42228867/112619712-eca46e80-8e27-11eb-9819-f07ab93e4945.jpg)
+![UE4-gamepad-cybershoes-implementation](https://user-images.githubusercontent.com/42228867/122557491-25c23880-d03d-11eb-8a55-0dcfb2195e55.jpg)
+
 
 The Cybershoes receiver outputs a left stick x/y gamepad signal relative to the HMD orientation. This signal tells the game in which direction the shoes are moving.  
 
