@@ -2,12 +2,13 @@
 
 ## The Fast method  
 
-In most cases this works. Cybershoes output a single joystick press for entering sprint mode. 
+In most cases this works. 
 
 How to do it:  
-UNreal Engine > Engine Input > Bindings  
+Unreal Engine > Engine Input > Bindings  
 * add Gamepad Left Thumbstick to your Y-Axis and X-Axis Mappings  
-* add Gamepad Left Thumbstick Button (Press) to your toggle "Sprint" Action
+* add Gamepad Left Thumbstick Button (Press) to your toggle "Sprint" Action.  
+  Cybershoes output a single joystick press for entering sprint mode. 
 
 ![UE4-gamepad-cybershoes-implementation](https://user-images.githubusercontent.com/42228867/122557491-25c23880-d03d-11eb-8a55-0dcfb2195e55.jpg)
 
